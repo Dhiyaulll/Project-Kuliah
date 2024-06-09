@@ -1,2 +1,2 @@
-# Python-Project-Kompyuta
-Mata Kuliah Pemrogaman 1
+# Tugas Project Java
+Mata Kuliah Pemrogaman 2
